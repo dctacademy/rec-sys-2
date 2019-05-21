@@ -4,7 +4,9 @@ This project (version 2 of the [original recommnedation engine](https://github.c
 
 # License
 
-Copyright(c) 2018, [DCT Academy](https://www.dctacademy.com)
+Copyright(c)
+* [DCT Academy](https://dctacademy.com)
+* [Initiable](https://initiable.com)
 
 # Authors
 
